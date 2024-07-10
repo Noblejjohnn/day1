@@ -1,0 +1,20 @@
+a { 
+    color: rgb(228, 125, 21);
+    text-decoration: none;
+}
+#inpl{   
+    background-color: aqua;
+}
+#yeys{
+    background-color: beige;
+}
+#ok{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.qwerty{  
+    font-family: cursive;
+    background-color: cornsilk;
+    border: 2px dotted red;
+    margin: 5% 30% 2% 20%;
+    padding: 10px 30px 10px 50px  ;
+}
